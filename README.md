@@ -5,5 +5,10 @@
 <p/>
 
 🎓 I am a **third-year Mathematics undergraduate** at **The University of Chittagong**.  
-🔬 My research interests and professional focus include **Machine Learning**, **Artificial Intelligence**, **Quantum Computing**, and **Cryptography**.  
+🔬 My research interests and professional focus include **Machine Learning**,**Data Science** **Artificial Intelligence**, **Quantum Computing**, and **Cryptography**.  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapim03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sapim03" /> </p>
+
+## Skills
+**Programming Languages:** Python, C+
+**Web Development:** HTML, CSS
+**Version Control & Tools:** Git, GitHub
